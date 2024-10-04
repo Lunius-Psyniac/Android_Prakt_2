@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android_Prakt_2</string>
+    <string name="first_activity">1st Activity</string>
+    <string name="go_to_2nd">Go to 2nd</string>
+    <string name="dialog">Dialog</string>
+    <string name="dialog_title">2nd Groups Dialog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_one">Dens Enrijs Lakučs</string>
+    <string name="item_two">Loreta Vītiņa</string>
+    <string name="item_three">Marts Bičevskis</string>
+    <string name="ok">OK</string>
+    <string name="close">Close</string>
+    <string name="second_activity">2nd Activity</string>
+    <string name="back">Back</string>
+</resources>
